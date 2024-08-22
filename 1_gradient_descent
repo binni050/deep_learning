@@ -1,0 +1,6 @@
+Gradient descent is an optimization algorithm used in deep learning.
+It minimizes the loss function, which measures the difference between predictions and actual data.
+The algorithm iteratively adjusts the model's parameters (like weights).
+Adjustments are made in small steps, moving in the direction that reduces the loss.
+The goal is to reach the optimal parameters that minimize the loss.
+This process helps the model learn from data and improve predictions.
